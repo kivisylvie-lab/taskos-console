@@ -1,7 +1,8 @@
 #   AI TaskOS Console
 
 > **AI 业务解决包交付系统 + AI 能力路由内核** — Web 控制台
-<img width="2878" height="1558" alt="屏幕截图 2026-07-07 121831" src="https://github.com/user-attachments/assets/54438531-ba59-413d-aba6-2e954ec1d2d9" />
+<img width="2448" height="1516" alt="屏幕截图 2026-07-07 121724" src="https://github.com/user-attachments/assets/af5c3e22-6f8e-4bca-ad25-1b09b976dc7c" />
+
 
 ## 是什么
 
