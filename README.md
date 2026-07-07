@@ -1,6 +1,7 @@
 #   AI TaskOS Console
 
 > **AI 业务解决包交付系统 + AI 能力路由内核** — Web 控制台
+<img width="2878" height="1558" alt="屏幕截图 2026-07-07 121831" src="https://github.com/user-attachments/assets/54438531-ba59-413d-aba6-2e954ec1d2d9" />
 
 ## 是什么
 
@@ -19,6 +20,8 @@
 - **业务动作定义** → **AI 组合方案** → **能力与工具选择**
 - **多 Agent / 人工审批** → **风险与指标判断**
 - **解决包封装** → **客户使用培训** → **指标验证与知识沉淀**
+<img width="1176" height="1442" alt="屏幕截图 2026-07-07 122158" src="https://github.com/user-attachments/assets/21069a5d-eb2d-470e-8894-06de364fd03a" />
+
 
 **一句话**：客户业务需求 → 真实痛点 → AI 组合方案 → 可用解决包 → 客户培训 → 指标验证 → 能力沉淀
 
@@ -148,6 +151,9 @@ npm run dev
 | 多 Agent 审查 | SubAgent | 13 种 Agent 类型 |  DAILYLIFE 规则 29 | 多专业角色独立判断 |
 | 文件生成 | Prompt (AI API) | 交付物生成 | AI 直接生成 | 内容生成 |
 | 项目打包 | Tool (自动化) | archiver | 项目内工具 | ZIP 打包 |
+<img width="1362" height="1074" alt="屏幕截图 2026-07-07 122255" src="https://github.com/user-attachments/assets/9bd58968-c563-4643-b91f-8ff1aed359ee" />
+<img width="1510" height="1424" alt="屏幕截图 2026-07-07 122358" src="https://github.com/user-attachments/assets/ee4157ef-4a29-44e6-8fc4-b044cae4d170" />
+
 
 
 ## 客户解决包模式专用能力
